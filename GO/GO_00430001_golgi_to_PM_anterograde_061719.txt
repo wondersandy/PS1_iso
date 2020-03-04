@@ -1,0 +1,51 @@
+MGI Gene/Marker ID	Symbol	Name	Chr	Qualifier	Annotated Term	Context	Proteoform	Evidence	Inferred From	Reference(s)
+MGI:1921455	Acsl3	acyl-CoA synthetase long-chain family member 3	1		positive regulation of Golgi to plasma membrane protein transport			ISO	O95573 	J:164563 	
+MGI:1934943	Amn	amnionless	12		Golgi to plasma membrane protein transport			ISO	Q9BXJ7 	J:164563 	
+MGI:88026	Ank3	ankyrin 3, epithelial	10		Golgi to plasma membrane protein transport			ISO	Q12955 	J:164563 	
+MGI:1917037	Anxa13	annexin A13	15		positive regulation of Golgi to plasma membrane protein transport			IBA	PTN002574747 	J:265628 	
+MGI:1923938	Arfrp1	ADP-ribosylation factor related protein 1	2		Golgi to plasma membrane protein transport			IBA	PTN000196303 	J:265628 	
+MGI:1923938	Arfrp1	ADP-ribosylation factor related protein 1	2		Golgi to plasma membrane protein transport			ISO	Q13795 	J:164563 	
+MGI:1277215	Bbs1	Bardet-Biedl syndrome 1 (human)	19		Golgi to plasma membrane protein transport			ISO	Q8NFJ9 	J:146158 	
+MGI:2135267	Bbs2	Bardet-Biedl syndrome 2 (human)	8		Golgi to plasma membrane protein transport			ISO	Q9BXC9 	J:73065 	
+MGI:1201607	Blzf1	basic leucine zipper nuclear factor 1	1		Golgi to plasma membrane protein transport			IBA	PTN000990856 	J:265628 	
+MGI:1201607	Blzf1	basic leucine zipper nuclear factor 1	1		Golgi to plasma membrane protein transport			ISO	Q9H2G9 	J:73065 	
+MGI:2445141	Cnst	consortin, connexin sorting protein	1		positive regulation of Golgi to plasma membrane protein transport			IBA	PTN002408364 	J:265628 	
+MGI:2445141	Cnst	consortin, connexin sorting protein	1		positive regulation of Golgi to plasma membrane protein transport			ISO	Q6PJW8 	J:164563 	
+MGI:88537	Csk	c-src tyrosine kinase	9		negative regulation of Golgi to plasma membrane protein transport			ISO	P41240 	J:164563 	
+MGI:2443049	D230025D16Rik	RIKEN cDNA D230025D16 gene	8		Golgi to plasma membrane protein transport			IBA	PTN000336163 	J:265628 	
+MGI:2443049	D230025D16Rik	RIKEN cDNA D230025D16 gene	8		Golgi to plasma membrane protein transport			ISO	RGD:621098 	J:155856 	
+MGI:2146207	Gga1	golgi associated, gamma adaptin ear containing, ARF binding protein 1	15		Golgi to plasma membrane protein transport			ISO	Q9UJY5 	J:164563 	
+MGI:1921355	Gga2	golgi associated, gamma adaptin ear containing, ARF binding protein 2	7		Golgi to plasma membrane protein transport			ISO	Q9UJY4 	J:164563 	
+MGI:2384159	Gga3	golgi associated, gamma adaptin ear containing, ARF binding protein 3	11		Golgi to plasma membrane protein transport			ISO	Q9NZ52 	J:164563 	
+MGI:5141923	Gm20458	predicted gene 20458	2		Golgi to plasma membrane protein transport			IBA	PTN000310658 	J:265628 	
+MGI:1859646	Golga4	golgi autoantigen, golgin subfamily a, 4	9		Golgi to plasma membrane protein transport			ISO	Q13439 	J:164563 	
+MGI:1931029	Golga7	golgi autoantigen, golgin subfamily a, 7	8		Golgi to plasma membrane protein transport			IBA	PTN000327120 	J:265628 	
+MGI:1931029	Golga7	golgi autoantigen, golgin subfamily a, 7	8		Golgi to plasma membrane protein transport			ISO	Q7Z5G4 	J:164563 	
+MGI:1913879	Golph3	golgi phosphoprotein 3	15		Golgi to plasma membrane protein transport			IBA	PTN000294961 	J:265628 	
+MGI:1913879	Golph3	golgi phosphoprotein 3	15		Golgi to plasma membrane protein transport			ISO	Q9H4A6 	J:164563 	
+MGI:1917129	Golph3l	golgi phosphoprotein 3-like	3		Golgi to plasma membrane protein transport			IBA	PTN000294961 	J:265628 	
+MGI:2149946	Gopc	golgi associated PDZ and coiled-coil motif containing	10		cytoplasmic sequestering of CFTR protein			ISO	Q9HD26 	J:164563 	
+MGI:1098264	Kif13a	kinesin family member 13A	13		Golgi to plasma membrane protein transport			IDA		J:175117 	
+MGI:96692	Krt18	keratin 18	15		Golgi to plasma membrane CFTR protein transport			ISO	P05783 	J:164563 	
+MGI:1344588	Lypla1	lysophospholipase 1	1		negative regulation of Golgi to plasma membrane protein transport			IMP		J:185057 	
+MGI:2385115	Lyplal1	lysophospholipase-like 1	1		negative regulation of Golgi to plasma membrane protein transport			IMP		J:185057 	
+MGI:104560	Nsf	N-ethylmaleimide sensitive fusion protein	11		Golgi to plasma membrane protein transport			IBA	PTN000554891 	J:265628 	
+MGI:1918898	Optn	optineurin	2		Golgi to plasma membrane protein transport			ISO	Q96CV9 	J:164563 	
+MGI:2147077	Pkdcc	protein kinase domain containing, cytoplasmic	17		negative regulation of Golgi to plasma membrane protein transport			IDA		J:158147 	
+MGI:2443284	Rab26	RAB26, member RAS oncogene family	17		Golgi to plasma membrane protein transport			ISO	Q9ULW5 	J:164563 	
+MGI:1914603	Rab31	RAB31, member RAS oncogene family	17		Golgi to plasma membrane protein transport			IBA	PTN001179289 	J:265628 	
+MGI:1914603	Rab31	RAB31, member RAS oncogene family	17		Golgi to plasma membrane protein transport			ISO	Q13636 	J:164563 	
+MGI:104606	Rab34	RAB34, member RAS oncogene family	11		Golgi to plasma membrane protein transport			IGI	Q9BZG1 	J:205676 	
+MGI:104606	Rab34	RAB34, member RAS oncogene family	11		Golgi to plasma membrane protein transport			ISO	Q9BZG1 	J:164563 	
+MGI:101849	Rack1	receptor for activated C kinase 1	11		positive regulation of Golgi to plasma membrane protein transport			ISO	P63244 	J:164563 	
+MGI:2139207	Sec16a	SEC16 homolog A, endoplasmic reticulum export factor	2		Golgi to plasma membrane CFTR protein transport			ISO	O15027 	J:164563 	
+MGI:98388	Sptbn1	spectrin beta, non-erythrocytic 1	11		Golgi to plasma membrane protein transport			ISO	Q01082 	J:164563 	
+MGI:1913710	Sys1	SYS1 Golgi-localized integral membrane protein homolog (S. cerevisiae)	2		Golgi to plasma membrane protein transport			IBA	PTN000310658 	J:265628 	
+MGI:1313277	Vamp2	vesicle-associated membrane protein 2	11		Golgi to plasma membrane protein transport			IMP		J:165162 	
+MGI:1321389	Vamp3	vesicle-associated membrane protein 3	4		Golgi to plasma membrane protein transport			IMP		J:165162 	
+MGI:1858730	Vamp4	vesicle-associated membrane protein 4	1		Golgi to plasma membrane protein transport			IMP		J:165162 	
+MGI:1858730	Vamp4	vesicle-associated membrane protein 4	1		regulation of Golgi to plasma membrane protein transport			IMP		J:131844 	
+MGI:1858622	Vamp5	vesicle-associated membrane protein 5	6		Golgi to plasma membrane protein transport			IBA	PTN000474289 	J:265628 	
+MGI:1858622	Vamp5	vesicle-associated membrane protein 5	6		Golgi to plasma membrane protein transport			IMP		J:165162 	
+MGI:1096399	Vamp7	vesicle-associated membrane protein 7	X		Golgi to plasma membrane protein transport			IMP		J:165162 	
+

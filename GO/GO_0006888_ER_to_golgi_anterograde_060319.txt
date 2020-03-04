@@ -1,0 +1,190 @@
+MGI Gene/Marker ID	Symbol	Name	Chr	Qualifier	Annotated Term	Context	Proteoform	Evidence	Inferred From	Reference(s)
+MGI:88024	Ank1	ankyrin 1, erythroid	8		endoplasmic reticulum to Golgi vesicle-mediated transport			ISO	P16157 	J:164563 	
+MGI:2387591	Arcn1	archain 1	9		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN000012805 	J:265628 	
+MGI:99431	Arf1	ADP-ribosylation factor 1	11		positive regulation of ER to Golgi vesicle-mediated transport			ISO	RGD:621270 	J:155856 	
+MGI:1924288	Arfgap2	ADP-ribosylation factor GTPase activating protein 2	2		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN002904183 	J:265628 	
+MGI:1913501	Arfgap3	ADP-ribosylation factor GTPase activating protein 3	15		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN002904183 	J:265628 	
+MGI:101917	Bcap29	B cell receptor associated protein 29	12		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN000294723 	J:265628 	
+MGI:101917	Bcap29	B cell receptor associated protein 29	12		endoplasmic reticulum to Golgi vesicle-mediated transport	results in the placement of H2-D1		IGI	MGI:1350933 	J:90842 	
+MGI:1350933	Bcap31	B cell receptor associated protein 31	X		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN000294723 	J:265628 	
+MGI:1350933	Bcap31	B cell receptor associated protein 31	X		endoplasmic reticulum to Golgi vesicle-mediated transport	results in the placement of H2-D1		IGI	MGI:101917 	J:90842 	
+MGI:1350933	Bcap31	B cell receptor associated protein 31	X		endoplasmic reticulum to Golgi vesicle-mediated transport	results in the placement of H2-D1		IMP		J:90842 	
+MGI:1343104	Bet1	Bet1 golgi vesicular membrane trafficking protein	6		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN000980454 	J:265628 	
+MGI:1343104	Bet1	Bet1 golgi vesicular membrane trafficking protein	6		endoplasmic reticulum to Golgi vesicle-mediated transport			ISO	RGD:2203 	J:155856 	
+MGI:1343104	Bet1	Bet1 golgi vesicular membrane trafficking protein	6		endoplasmic reticulum to Golgi vesicle-mediated transport			ISO	Q62896 	J:96057 	
+MGI:1925828	Cnih4	cornichon family AMPA receptor auxiliary protein 4	1		endoplasmic reticulum to Golgi vesicle-mediated transport			ISO	Q9P003 	J:164563 	
+MGI:2450151	Cog3	component of oligomeric golgi complex 3	14		endoplasmic reticulum to Golgi vesicle-mediated transport			ISO	Q96JB2 	J:164563 	
+MGI:1334462	Copa	coatomer protein complex subunit alpha	1		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN000458798 	J:265628 	
+MGI:1917599	Copb1	coatomer protein complex, subunit beta 1	7		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN000067242 	J:265628 	
+MGI:1354962	Copb2	coatomer protein complex, subunit beta 2 (beta prime)	9		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN000458798 	J:265628 	
+MGI:1891702	Cope	coatomer protein complex, subunit epsilon	8		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN000086687 	J:265628 	
+MGI:1858696	Copg1	coatomer protein complex, subunit gamma 1	6		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN000029440 	J:265628 	
+MGI:1858683	Copg2	coatomer protein complex, subunit gamma 2	6		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN000029440 	J:265628 	
+MGI:2442695	Creb3l2	cAMP responsive element binding protein 3-like 2	6		endoplasmic reticulum to Golgi vesicle-mediated transport			IMP		J:158241 	
+MGI:1347360	Cul3	cullin 3	1		COPII vesicle coating			ISO	Q13618 	J:164563 	
+MGI:1347360	Cul3	cullin 3	1		endoplasmic reticulum to Golgi vesicle-mediated transport			ISO	Q13618 	J:164563 	
+MGI:1919358	Ddhd2	DDHD domain containing 2	8		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN000397274 	J:265628 	
+MGI:1914708	Ergic1	endoplasmic reticulum-golgi intermediate compartment (ERGIC) 1	17		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN000862199 	J:265628 	
+MGI:1914708	Ergic1	endoplasmic reticulum-golgi intermediate compartment (ERGIC) 1	17		endoplasmic reticulum to Golgi vesicle-mediated transport			ISO	Q969X5 	J:164563 	
+MGI:1914706	Ergic2	ERGIC and golgi 2	6		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN000862199 	J:265628 	
+MGI:1913616	Ergic3	ERGIC and golgi 3	2		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN000862199 	J:265628 	
+MGI:1914647	Erp29	endoplasmic reticulum protein 29	5		endoplasmic reticulum to Golgi vesicle-mediated transport	uses UniProtKB:F6VAN0		NAS		J:217253 	
+MGI:95655	Gas1	growth arrest specific 1	13		regulation of ER to Golgi vesicle-mediated transport			ISO	P54826 	J:164563 	
+MGI:5142003	Gm20538	predicted gene 20538	19		COPII-coated vesicle budding			IBA	PTN000357875 	J:265628 	
+MGI:5142003	Gm20538	predicted gene 20538	19		COPII-coated vesicle cargo loading			IBA	PTN000357875 	J:265628 	
+MGI:5142003	Gm20538	predicted gene 20538	19		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN000357875 	J:265628 	
+MGI:2139395	Golga2	golgi autoantigen, golgin subfamily a, 2	2		endoplasmic reticulum to Golgi vesicle-mediated transport			ISO	RGD:620282 	J:155856 	
+MGI:1858260	Gosr1	golgi SNAP receptor complex member 1	11		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN000473329 	J:265628 	
+MGI:1858260	Gosr1	golgi SNAP receptor complex member 1	11		endoplasmic reticulum to Golgi vesicle-mediated transport			ISO	RGD:71093 	J:155856 	
+MGI:1858260	Gosr1	golgi SNAP receptor complex member 1	11		endoplasmic reticulum to Golgi vesicle-mediated transport			ISO	Q62931 	J:96057 	
+MGI:1927204	Gosr2	golgi SNAP receptor complex member 2	11		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN000477446 	J:265628 	
+MGI:96067	Htt	huntingtin	5		endoplasmic reticulum to Golgi vesicle-mediated transport			IMP	MGI:1857180 	J:106641 	
+MGI:108030	Hyou1	hypoxia up-regulated 1	9		endoplasmic reticulum to Golgi vesicle-mediated transport			ISO	Q9Y4L1 	J:164563 	
+MGI:1913441	Ier3ip1	immediate early response 3 interacting protein 1	18		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN000407112 	J:265628 	
+MGI:1916289	Insig1	insulin induced gene 1	5		negative regulation of cargo loading into COPII-coated vesicle			ISO	O15503 	J:164563 	
+MGI:1915387	Kdelr1	KDEL (Lys-Asp-Glu-Leu) endoplasmic reticulum protein retention receptor 1	7		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN000062353 	J:265628 	
+MGI:1914163	Kdelr2	KDEL (Lys-Asp-Glu-Leu) endoplasmic reticulum protein retention receptor 2	5		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN000062353 	J:265628 	
+MGI:2145953	Kdelr3	KDEL (Lys-Asp-Glu-Leu) endoplasmic reticulum protein retention receptor 3	15		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN000062353 	J:265628 	
+MGI:2385619	Klhl12	kelch-like 12	1		COPII vesicle coating			IBA	PTN001973791 	J:265628 	
+MGI:2385619	Klhl12	kelch-like 12	1		COPII vesicle coating			ISO	Q53G59 	J:164563 	
+MGI:2385619	Klhl12	kelch-like 12	1		endoplasmic reticulum to Golgi vesicle-mediated transport			ISO	Q53G59 	J:164563 	
+MGI:1917611	Lman1	lectin, mannose-binding, 1	18		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN000259611 	J:265628 	
+MGI:1917611	Lman1	lectin, mannose-binding, 1	18		endoplasmic reticulum to Golgi vesicle-mediated transport			TAS		J:76350 	
+MGI:2667537	Lman1l	lectin, mannose-binding 1 like	9		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN000259611 	J:265628 	
+MGI:1914140	Lman2	lectin, mannose-binding 2	13		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN000259611 	J:265628 	
+MGI:2443010	Lman2l	lectin, mannose-binding 2-like	1		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN000259611 	J:265628 	
+MGI:1923733	Lmf1	lipase maturation factor 1	17		endoplasmic reticulum to Golgi vesicle-mediated transport			IMP	MGI:1856820 	J:10768 J:34711 	
+MGI:1913975	Lrrk2	leucine-rich repeat kinase 2	15		regulation of ER to Golgi vesicle-mediated transport			IMP		J:216361 	
+MGI:2652894	Mapk15	mitogen-activated protein kinase 15	15		regulation of COPII vesicle coating			ISO	Q8TD08 	J:164563 	
+MGI:2159614	Mia2	MIA SH3 domain ER export factor 2	12		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN000570072 	J:265628 	
+MGI:2443183	Mia3	melanoma inhibitory activity 3	1		COPII-coated vesicle cargo loading			ISO	Q5JRA6 	J:164563 	
+MGI:2443183	Mia3	melanoma inhibitory activity 3	1		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN000570072 	J:265628 	
+MGI:2443183	Mia3	melanoma inhibitory activity 3	1		endoplasmic reticulum to Golgi vesicle-mediated transport			ISO	Q5JRA6 	J:164563 	
+MGI:2661311	Mppe1	metallophosphoesterase 1	18		endoplasmic reticulum to Golgi vesicle-mediated transport			IEA	IPR039541 	J:72247 	
+MGI:2183436	Nrbp1	nuclear receptor binding protein 1	5		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN000357046 	J:265628 	
+MGI:2183436	Nrbp1	nuclear receptor binding protein 1	5		endoplasmic reticulum to Golgi vesicle-mediated transport			ISO	Q9UHY1 	J:164563 	
+MGI:2385017	Nrbp2	nuclear receptor binding protein 2	15		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN000357046 	J:265628 	
+MGI:109283	Pdcd6	programmed cell death 6	13		COPII vesicle coating			ISO	O75340 	J:164563 	
+MGI:109283	Pdcd6	programmed cell death 6	13		endoplasmic reticulum to Golgi vesicle-mediated transport			ISO	O75340 	J:164563 	
+MGI:1915148	Pef1	penta-EF hand domain containing 1	4		COPII vesicle coating			IBA	PTN000809841 	J:265628 	
+MGI:1915148	Pef1	penta-EF hand domain containing 1	4		COPII vesicle coating			ISO	Q9UBV8 	J:164563 	
+MGI:1915148	Pef1	penta-EF hand domain containing 1	4		endoplasmic reticulum to Golgi vesicle-mediated transport			ISO	Q9UBV8 	J:164563 	
+MGI:2443342	Pgap1	post-GPI attachment to proteins 1	1		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN000398233 	J:265628 	
+MGI:2685726	Pitpnm3	PITPNM family member 3	11		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN000397274 	J:265628 	
+MGI:1355326	Preb	prolactin regulatory element binding	5		COPII vesicle coating			ISO	RGD:61929 	J:155856 	
+MGI:1355326	Preb	prolactin regulatory element binding	5		endoplasmic reticulum to Golgi vesicle-mediated transport			ISO	RGD:61929 	J:155856 	
+MGI:1355326	Preb	prolactin regulatory element binding	5		regulation of COPII vesicle coating			IBA	PTN000590366 	J:265628 	
+MGI:97842	Rab1a	RAB1A, member RAS oncogene family	11		COPII-coated vesicle cargo loading			ISO	P62820 	J:164563 	
+MGI:97842	Rab1a	RAB1A, member RAS oncogene family	11		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN000634841 	J:265628 	
+MGI:97842	Rab1a	RAB1A, member RAS oncogene family	11		endoplasmic reticulum to Golgi vesicle-mediated transport			ISO	P62820 	J:164563 	
+MGI:97842	Rab1a	RAB1A, member RAS oncogene family	11		endoplasmic reticulum to Golgi vesicle-mediated transport			ISO	Q6NYB7 	J:96057 	
+MGI:1923558	Rab1b	RAB1B, member RAS oncogene family	19		endoplasmic reticulum to Golgi vesicle-mediated transport			ISO	Q9H0U4 	J:164563 	
+MGI:894284	Rab12	RAB12, member RAS oncogene family	17		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN000634841 	J:265628 	
+MGI:103292	Rab19	RAB19, member RAS oncogene family	6		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN000634841 	J:265628 	
+MGI:1923235	Rab30	RAB30, member RAS oncogene family	7		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN000634841 	J:265628 	
+MGI:109493	Rab33a	RAB33A, member RAS oncogene family	X		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN000634841 	J:265628 	
+MGI:1330805	Rab33b	RAB33B, member RAS oncogene family	3		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN000634841 	J:265628 	
+MGI:1917084	Rab43	RAB43, member RAS oncogene family	6		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN000634841 	J:265628 	
+MGI:1889073	Rangrf	RAN guanine nucleotide release factor	11		endoplasmic reticulum to Golgi vesicle-mediated transport			ISO	Q9HD47 	J:164563 	
+MGI:1916233	Rint1	RAD50 interactor 1	5		regulation of ER to Golgi vesicle-mediated transport			IBA	PTN000338119 	J:265628 	
+MGI:1916233	Rint1	RAD50 interactor 1	5		regulation of ER to Golgi vesicle-mediated transport			ISO	Q6NUQ1 	J:164563 	
+MGI:1923091	Rnf139	ring finger protein 139	15		regulation of ER to Golgi vesicle-mediated transport			ISO	Q8WU17 	J:164563 	
+MGI:98230	Sar1a	secretion associated Ras related GTPase 1A	10		COPII-coated vesicle cargo loading			ISO	Q9NR31 	J:164563 	
+MGI:98230	Sar1a	secretion associated Ras related GTPase 1A	10		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN000195056 	J:265628 	
+MGI:98230	Sar1a	secretion associated Ras related GTPase 1A	10		negative regulation of cargo loading into COPII-coated vesicle			IDA		J:198477 	
+MGI:98230	Sar1a	secretion associated Ras related GTPase 1A	10		regulation of cargo loading into COPII-coated vesicle			IMP		J:158452 	
+MGI:98230	Sar1a	secretion associated Ras related GTPase 1A	10		regulation of COPII vesicle coating			IBA	PTN000195056 	J:265628 	
+MGI:1913647	Sar1b	secretion associated Ras related GTPase 1B	11		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN000195056 	J:265628 	
+MGI:1913647	Sar1b	secretion associated Ras related GTPase 1B	11		regulation of COPII vesicle coating			IBA	PTN000195056 	J:265628 	
+MGI:1924233	Scfd1	Sec1 family domain containing 1	12		regulation of ER to Golgi vesicle-mediated transport			ISO	RGD:619828 	J:155856 	
+MGI:99832	Sec13	SEC13 homolog, nuclear pore and COPII coat complex component	6		COPII-coated vesicle budding			IBA	PTN000111812 	J:265628 	
+MGI:99832	Sec13	SEC13 homolog, nuclear pore and COPII coat complex component	6		COPII-coated vesicle cargo loading			ISO	P55735 	J:164563 	
+MGI:99832	Sec13	SEC13 homolog, nuclear pore and COPII coat complex component	6		endoplasmic reticulum to Golgi vesicle-mediated transport			ISO	Q5XFW8 	J:96057 	
+MGI:2139207	Sec16a	SEC16 homolog A, endoplasmic reticulum export factor	2		COPII vesicle coating			IBA	PTN000333928 	J:265628 	
+MGI:2139207	Sec16a	SEC16 homolog A, endoplasmic reticulum export factor	2		endoplasmic reticulum to Golgi vesicle-mediated transport			ISO	O15027 	J:164563 	
+MGI:2148802	Sec16b	SEC16 homolog B (S. cerevisiae)	1		COPII vesicle coating			IBA	PTN000333928 	J:265628 	
+MGI:2148802	Sec16b	SEC16 homolog B (S. cerevisiae)	1		endoplasmic reticulum to Golgi vesicle-mediated transport			ISO	Q96JE7 	J:164563 	
+MGI:2447876	Sec22a	SEC22 homolog A, vesicle trafficking protein	16		endoplasmic reticulum to Golgi vesicle-mediated transport			ISO	RGD:621659 	J:155856 	
+MGI:1338759	Sec22b	SEC22 homolog B, vesicle trafficking protein	3		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN001465421 	J:265628 	
+MGI:1338759	Sec22b	SEC22 homolog B, vesicle trafficking protein	3		endoplasmic reticulum to Golgi vesicle-mediated transport			TAS		J:80906 	
+MGI:1349635	Sec23a	SEC23 homolog A, COPII coat complex component	12		COPII-coated vesicle budding			IEA	IPR037550 	J:72247 	
+MGI:1349635	Sec23a	SEC23 homolog A, COPII coat complex component	12		COPII-coated vesicle cargo loading			IBA	PTN000124617 	J:265628 	
+MGI:1349635	Sec23a	SEC23 homolog A, COPII coat complex component	12		COPII-coated vesicle cargo loading			ISO	Q15436 	J:164563 	
+MGI:1349635	Sec23a	SEC23 homolog A, COPII coat complex component	12		endoplasmic reticulum to Golgi vesicle-mediated transport			IEA	IPR006895 IPR006896 IPR006900 IPR036174 IPR036175 	J:72247 	
+MGI:1350925	Sec23b	SEC23 homolog B, COPII coat complex component	2		COPII-coated vesicle budding			IEA	IPR037550 	J:72247 	
+MGI:1350925	Sec23b	SEC23 homolog B, COPII coat complex component	2		COPII-coated vesicle cargo loading			IBA	PTN000124617 	J:265628 	
+MGI:1350925	Sec23b	SEC23 homolog B, COPII coat complex component	2		endoplasmic reticulum to Golgi vesicle-mediated transport			IEA	IPR006895 IPR006896 IPR006900 IPR036174 IPR036175 	J:72247 	
+MGI:2450915	Sec23ip	Sec23 interacting protein	7		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN000397274 	J:265628 	
+MGI:1924621	Sec24a	Sec24 related gene family, member A (S. cerevisiae)	11		COPII-coated vesicle cargo loading			ISO	O95486 	J:164563 	
+MGI:1924621	Sec24a	Sec24 related gene family, member A (S. cerevisiae)	11		endoplasmic reticulum to Golgi vesicle-mediated transport			ISO	O95486 	J:164563 	
+MGI:2139764	Sec24b	Sec24 related gene family, member B (S. cerevisiae)	3		COPII-coated vesicle cargo loading			ISO	O95487 	J:164563 	
+MGI:2139764	Sec24b	Sec24 related gene family, member B (S. cerevisiae)	3		endoplasmic reticulum to Golgi vesicle-mediated transport			ISO	O95487 	J:164563 	
+MGI:2139764	Sec24b	Sec24 related gene family, member B (S. cerevisiae)	3		regulation of cargo loading into COPII-coated vesicle			IMP	MGI:4440619 MGI:4440621 	J:158452 	
+MGI:1919746	Sec24c	Sec24 related gene family, member C (S. cerevisiae)	14		COPII-coated vesicle cargo loading			ISO	P53992 	J:164563 	
+MGI:1919746	Sec24c	Sec24 related gene family, member C (S. cerevisiae)	14		endoplasmic reticulum to Golgi vesicle-mediated transport			ISO	P53992 	J:164563 	
+MGI:1916858	Sec24d	Sec24 related gene family, member D (S. cerevisiae)	3		COPII-coated vesicle cargo loading			ISO	O94855 	J:164563 	
+MGI:1916858	Sec24d	Sec24 related gene family, member D (S. cerevisiae)	3		endoplasmic reticulum to Golgi vesicle-mediated transport			ISO	O94855 	J:164563 	
+MGI:1916412	Sec31a	Sec31 homolog A (S. cerevisiae)	5		COPII-coated vesicle budding			IBA	PTN000357875 	J:265628 	
+MGI:1916412	Sec31a	Sec31 homolog A (S. cerevisiae)	5		COPII-coated vesicle cargo loading			IBA	PTN000357875 	J:265628 	
+MGI:1916412	Sec31a	Sec31 homolog A (S. cerevisiae)	5		COPII-coated vesicle cargo loading			ISO	O94979 	J:164563 	
+MGI:1916412	Sec31a	Sec31 homolog A (S. cerevisiae)	5		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN000357875 	J:265628 	
+MGI:2685187	Sec31b	Sec31 homolog B (S. cerevisiae)	19		COPII-coated vesicle budding			IBA	PTN000357875 	J:265628 	
+MGI:2685187	Sec31b	Sec31 homolog B (S. cerevisiae)	19		COPII-coated vesicle cargo loading			IBA	PTN000357875 	J:265628 	
+MGI:2685187	Sec31b	Sec31 homolog B (S. cerevisiae)	19		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN000357875 	J:265628 	
+MGI:1202296	Sorl1	sortilin-related receptor, LDLR class A repeats-containing	9		positive regulation of ER to Golgi vesicle-mediated transport			ISO	Q92673 	J:164563 	
+MGI:1858896	Spast	spastin	17		endoplasmic reticulum to Golgi vesicle-mediated transport			ISO	Q9UBP0 	J:164563 	
+MGI:1928483	Stx5a	syntaxin 5A	19		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN000461791 	J:265628 	
+MGI:1928483	Stx5a	syntaxin 5A	19		endoplasmic reticulum to Golgi vesicle-mediated transport			ISO	RGD:68426 	J:155856 	
+MGI:1914977	Stx17	syntaxin 17	4		endoplasmic reticulum to Golgi vesicle-mediated transport			ISO	P56962 	J:164563 	
+MGI:1918366	Stx18	syntaxin 18	5		positive regulation of ER to Golgi vesicle-mediated transport			ISO	Q9P2W9 	J:164563 	
+MGI:1914481	Tbc1d20	TBC1 domain family, member 20	2		COPII-coated vesicle cargo loading			ISO	Q96BZ9 	J:164563 	
+MGI:1914481	Tbc1d20	TBC1 domain family, member 20	2		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN000467547 	J:265628 	
+MGI:1914481	Tbc1d20	TBC1 domain family, member 20	2		endoplasmic reticulum to Golgi vesicle-mediated transport			ISO	Q96BZ9 	J:164563 	
+MGI:1914481	Tbc1d20	TBC1 domain family, member 20	2		positive regulation of ER to Golgi vesicle-mediated transport			ISO	Q96BZ9 	J:164563 	
+MGI:1096575	Tex261	testis expressed gene 261	6		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN000321972 	J:265628 	
+MGI:1338041	Tfg	Trk-fused gene	16		endoplasmic reticulum to Golgi vesicle-mediated transport			ISO	Q92734 	J:164563 	
+MGI:3040056	Ticam2	toll-like receptor adaptor molecule 2	18		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN000516376 	J:265628 	
+MGI:106201	Tmed1	transmembrane p24 trafficking protein 1	9		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN000516376 	J:265628 	
+MGI:1929269	Tmed2	transmembrane p24 trafficking protein 2	5		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN000516376 	J:265628 	
+MGI:1913361	Tmed3	transmembrane p24 trafficking protein 3	9		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN000516376 	J:265628 	
+MGI:1915070	Tmed4	transmembrane p24 trafficking protein 4	11		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN000516376 	J:265628 	
+MGI:1921586	Tmed5	transmembrane p24 trafficking protein 5	5		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN000516376 	J:265628 	
+MGI:1913519	Tmed6	transmembrane p24 trafficking protein 6	8		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN000516376 	J:265628 	
+MGI:1913926	Tmed7	transmembrane p24 trafficking protein 7	18		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN000516376 	J:265628 	
+MGI:1914761	Tmed9	transmembrane p24 trafficking protein 9	13		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN000516376 	J:265628 	
+MGI:1915831	Tmed10	transmembrane p24 trafficking protein 10	12		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN000516376 	J:265628 	
+MGI:1914616	Tmed11	transmembrane p24 trafficking protein 11	5		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN000516376 	J:265628 	
+MGI:1098727	Trappc1	trafficking protein particle complex 1	11		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN000583159 	J:265628 	
+MGI:1916295	Trappc2l	trafficking protein particle complex 2-like	8		endoplasmic reticulum to Golgi vesicle-mediated transport			IEA	IPR006722 	J:72247 	
+MGI:1351486	Trappc3	trafficking protein particle complex 3	4		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN000316141 	J:265628 	
+MGI:1351486	Trappc3	trafficking protein particle complex 3	4		endoplasmic reticulum to Golgi vesicle-mediated transport			IDA		J:96057 	
+MGI:3642034	Trappc3l	trafficking protein particle complex 3 like	10		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN000316141 	J:265628 	
+MGI:1926211	Trappc4	trafficking protein particle complex 4	9		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN000583159 	J:265628 	
+MGI:1913932	Trappc5	trafficking protein particle complex 5	8		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN000467346 	J:265628 	
+MGI:1914341	Trappc6a	trafficking protein particle complex 6A	7		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN000302156 	J:265628 	
+MGI:1925482	Trappc6b	trafficking protein particle complex 6B	12		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN000302156 	J:265628 	
+MGI:2443008	Trappc8	trafficking protein particle complex 8	18		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN000312051 	J:265628 	
+MGI:2444585	Trappc11	trafficking protein particle complex 11	8		endoplasmic reticulum to Golgi vesicle-mediated transport			ISO	Q7Z392 	J:164563 	
+MGI:2445089	Trappc12	trafficking protein particle complex 12	12		endoplasmic reticulum to Golgi vesicle-mediated transport			ISO	Q8WVT3 	J:164563 	
+MGI:1914273	Use1	unconventional SNARE in the ER 1 homolog (S. cerevisiae)	8		regulation of ER to Golgi vesicle-mediated transport	regulates a function/process that happens in fibroblast		IMP	MGI:3842569 MGI:3842571 	J:147771 	
+MGI:1929095	Uso1	USO1 vesicle docking factor	5		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN000000707 	J:265628 	
+MGI:1929095	Uso1	USO1 vesicle docking factor	5		endoplasmic reticulum to Golgi vesicle-mediated transport			ISO	RGD:621604 	J:155856 	
+MGI:1096399	Vamp7	vesicle-associated membrane protein 7	X		endoplasmic reticulum to Golgi vesicle-mediated transport			ISO	RGD:621558 	J:155856 	
+MGI:1096399	Vamp7	vesicle-associated membrane protein 7	X		endoplasmic reticulum to Golgi vesicle-mediated transport			ISS	Q9JHW5 	J:131464 	
+MGI:1353561	Vapa	vesicle-associated membrane protein, associated protein A	17		COPII-coated vesicle budding			ISO	Q9P0L0 	J:164563 	
+MGI:1353561	Vapa	vesicle-associated membrane protein, associated protein A	17		endoplasmic reticulum to Golgi vesicle-mediated transport			ISO	Q9P0L0 	J:164563 	
+MGI:1928744	Vapb	vesicle-associated membrane protein, associated protein B and C	2		COPII-coated vesicle budding			ISO	O95292 	J:164563 	
+MGI:1928744	Vapb	vesicle-associated membrane protein, associated protein B and C	2		endoplasmic reticulum to Golgi vesicle-mediated transport			ISO	O95292 	J:164563 	
+MGI:99919	Vcp	valosin containing protein	4		endoplasmic reticulum to Golgi vesicle-mediated transport			ISO	RGD:621595 	J:155856 	
+MGI:1855699	Vti1a	vesicle transport through interaction with t-SNAREs 1A	19		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN000477446 	J:265628 	
+MGI:1855699	Vti1a	vesicle transport through interaction with t-SNAREs 1A	19		endoplasmic reticulum to Golgi vesicle-mediated transport			ISO	RGD:621490 	J:155856 	
+MGI:1855688	Vti1b	vesicle transport through interaction with t-SNAREs 1B	12		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN000477446 	J:265628 	
+MGI:2142282	Whamm	WAS protein homolog associated with actin, golgi membranes and microtubules	7		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN000596166 	J:265628 	
+MGI:2142282	Whamm	WAS protein homolog associated with actin, golgi membranes and microtubules	7		endoplasmic reticulum to Golgi vesicle-mediated transport			IMP		J:212803 	
+MGI:2142282	Whamm	WAS protein homolog associated with actin, golgi membranes and microtubules	7		endoplasmic reticulum to Golgi vesicle-mediated transport			ISO	Q8TF30 	J:164563 	
+MGI:1914430	Yipf5	Yip1 domain family, member 5	18		regulation of ER to Golgi vesicle-mediated transport			IMP		J:97144 	
+MGI:1927550	Ykt6	YKT6 v-SNARE homolog (S. cerevisiae)	11		endoplasmic reticulum to Golgi vesicle-mediated transport			ISO	O15498 	J:164563 	
+MGI:1927550	Ykt6	YKT6 v-SNARE homolog (S. cerevisiae)	11		endoplasmic reticulum to Golgi vesicle-mediated transport			ISS	O15498 	J:41722 	
+MGI:1349478	Zw10	zw10 kinetochore protein	9		endoplasmic reticulum to Golgi vesicle-mediated transport			IBA	PTN000258496 	J:265628 	
+MGI:1349478	Zw10	zw10 kinetochore protein	9		endoplasmic reticulum to Golgi vesicle-mediated transport			ISO	O43264 	J:164563 	
+
